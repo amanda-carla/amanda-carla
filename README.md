@@ -1,8 +1,8 @@
 ###  Olá! Eu sou a Amanda Carla, estudante de Análise e desenvolvimento de Sistemas.
 
 - 🔭 Hoje trabalho como extensionista em QA
-- 🌱 Estudo Testes de Software  e Criação de Página Web
-- 😄 Pronouns:  ela/dela
+- 🌱 Estudo Testes de Softwares e Criação de Página Web
+- 😄 Pronomes:  ela/dela
 
 <div align="center">
   <a href="https://github.com/amanda-carla">
