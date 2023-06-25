@@ -1,7 +1,7 @@
 ###  Olá! Eu sou a Amanda Carla, estudante de Análise e desenvolvimento de Sistemas.
 
 - 🔭 Atuo como Quality Assurance Intern
-- 🌱 Estudo Testes de Softwares e Criação de Página Web
+- 🌱 Estudo Testes de Softwares
 - 😄 Pronomes:  ela/dela
 
 <div align="center">
